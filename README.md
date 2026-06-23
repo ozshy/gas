@@ -4,7 +4,7 @@ R-code and data for a paper titled: "How Consumers Pay for Gasoline" by Oz Shy
 Instructions:
 
 1) Download the R-code file: "gas_2026_mm_dd.R"
-2) Download 10 data files: "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS". YEAR should be replace with: 2021, 2022, 2023, 2024, and 2025.
+2) Download 10 data files: "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS". YEAR should be replaced with: 2021, 2022, 2023, 2024, and 2025.
 3) Place all files in the same folder on your computer.
 4) Start R with the R code, and reset the working directory 5 times! To do that, search for #2025_begins, then #2024_begins, down to #2021_begins. In all 5, you will see the old setwd(~xxx/yyy) which you must change to identify where the data files that you just downloaded are located. 
 
